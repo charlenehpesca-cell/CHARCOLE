@@ -2,7 +2,7 @@
 
 | Deliverable | Status | Due | Notes |
 | --- | --- | --- | --- |
-| | Not started / In progress / In review / Done | | |
+| GHL CRM audit (sales + client servicing) | In review | | Report: https://claude.ai/artifact/Xx8Chs2ox1D9At8ejsPjaE — health 4/10; 12 critical issues; action plan in section 10 |
 
 ## Completed
 
