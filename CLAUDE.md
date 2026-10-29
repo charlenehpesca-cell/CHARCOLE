@@ -39,6 +39,7 @@ This file holds rules (anything "always" or "never"). Facts that change — proj
 | `00 - Inbox/` | I say "capture", "jot down" or "add to inbox", or a note has no clear home yet. |
 | `10 - Projects/` | My own (non-client) projects with an outcome and end date. One note per project. |
 | `20 - Areas/` | Ongoing responsibilities: Dev, Business, Learning. |
+| `20 - Areas/Homeschool/` | I mention homeschool, lessons, curriculum, weekly school plans or school records. |
 | `30 - Resources/` | Reference notes, guides and MOCs (start at `30 - Resources/Home.md`). |
 | `40 - Archive/` | Done or inactive projects, areas and resources. Move here, never delete. |
 | `50 - Zettelkasten/` | Permanent insights, one idea per note, titled as a sentence. |

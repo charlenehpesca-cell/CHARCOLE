@@ -12,3 +12,4 @@ Audit trail of every rule, structure or governance change: what changed, when, a
 | 2026-10-29 | Added rule: client details never go in PARA folders | CLAUDE.md | Direct request (follows client-separation rule) | Keep clients separate |
 | 2026-10-29 | Added governance layer | AGENT.md, `rules/`, `skills/`, `governance/`, `memory/`; MEMORY.md became an index | Direct request | Agent governance structure |
 | 2026-10-29 | Renamed `.rules/` → `rules/`, `.skills/` → `skills/` | `rules/`, `skills/`, all references | Direct request | Dot-folders are hidden in Obsidian |
+| 2026-10-30 | Added Homeschool area with subfolders and weekly template | `20 - Areas/Homeschool/`, `Templates/Homeschool Week.md`, CLAUDE.md | Direct request | Homeschool is an ongoing responsibility |

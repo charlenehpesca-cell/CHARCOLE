@@ -14,7 +14,7 @@ The front door to the vault.
 - Clients: `clients/` (THREVI, HL Accelerator, OneSource, Pau Parreno, Ivy Woolfturk)
 
 ## Maintain
-- [[_About Areas|Areas]]: [[Dev]] · [[Business]] · [[Learning]]
+- [[_About Areas|Areas]]: [[Dev]] · [[Business]] · [[Learning]] · [[Homeschool]]
 
 ## Know
 - [[_About Resources|Resources]]: reference material and MOCs

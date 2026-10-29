@@ -16,7 +16,7 @@ Private notes repo shared by Obsidian (on my computer) and Claude (on every devi
 | `playbooks/` | Reusable processes for every client. |
 | `00 - Inbox/` | Quick captures; new notes land here. Empty it weekly. |
 | `10 - Projects/` | One note per active (non-client) project. |
-| `20 - Areas/` | Ongoing responsibilities: Dev, Business, Learning. |
+| `20 - Areas/` | Ongoing responsibilities: Dev, Business, Learning, Homeschool. |
 | `30 - Resources/` | Reference material and MOCs. Start at `Home.md`. |
 | `40 - Archive/` | Done or inactive notes. |
 | `50 - Zettelkasten/` | Permanent insights, one idea per note. |
