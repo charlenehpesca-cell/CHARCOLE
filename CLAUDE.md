@@ -1,6 +1,6 @@
 # CLAUDE.md — Rules & Routing
 
-**Start here. Read this file and MEMORY.md first, then use the Routing Map to load only the folder the task needs.**
+**Start here. Read `AGENT.md`, this file and MEMORY.md first, then use the Routing Map to load only the folder the task needs.**
 
 This file holds rules (anything "always" or "never"). Facts that change — projects, decisions, contacts — go in MEMORY.md.
 
@@ -45,6 +45,10 @@ This file holds rules (anything "always" or "never"). Facts that change — proj
 | `Daily/` | Daily journal notes, named `YYYY-MM-DD.md`, from `Templates/Daily Note.md`. |
 | `Templates/` | Note templates. Use them when creating notes of that type. |
 | `Attachments/` | Images and files. Never put notes here. |
+| `.rules/` | Safety, conventions and git discipline. Safety is always loaded. |
+| `.skills/` | Procedures: checkpoint, session end, feedback, review proposals. |
+| `governance/` | Proposals, learnings log, cross-session TODOs. |
+| `memory/` | User, feedback, project and reference memory (indexed in MEMORY.md). |
 
 _Add a row for each new client._
 

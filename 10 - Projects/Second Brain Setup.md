@@ -22,5 +22,6 @@ CHARCOLE works as one second brain across Obsidian, GitHub and Claude on every d
 - [x] Obsidian Git auto-sync every 5 minutes
 - [x] Added clients: THREVI, HL Accelerator, OneSource, Pau Parreno, Ivy Woolfturk
 - [x] PARA + Zettelkasten folders
+- [x] Governance layer (AGENT.md, rules, skills, governance, memory)
 
 ## Notes

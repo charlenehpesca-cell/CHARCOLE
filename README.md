@@ -6,8 +6,9 @@ Private notes repo shared by Obsidian (on my computer) and Claude (on every devi
 
 | Path | What's in it |
 | --- | --- |
-| `CLAUDE.md` | Rules, preferences and the routing map. Claude reads this first. |
-| `MEMORY.md` | General facts: active projects, decisions, contacts. |
+| `AGENT.md` | Living constitution: how the agent works. Loaded every session. |
+| `CLAUDE.md` | Rules, preferences and the routing map. |
+| `MEMORY.md` | Cross-session index pointing to `memory/`. |
 | `00_Resources/` | Shared references, including my voice principles. |
 | `clients/_template/` | Copy this for every new client. |
 | `clients/<name>/` | One folder per client, each with its own CLAUDE.md and MEMORY.md. |
@@ -22,6 +23,10 @@ Private notes repo shared by Obsidian (on my computer) and Claude (on every devi
 | `Daily/` | Daily journal notes. |
 | `Templates/` | Note templates (Daily, Project, Area, Resource, Zettel, Inbox Capture). |
 | `Attachments/` | Images and files. |
+| `.rules/` | Safety, conventions, operations (hidden in Obsidian). |
+| `.skills/` | Checkpoint, session end, feedback, review proposals (hidden in Obsidian). |
+| `governance/` | Proposals, learnings log, remaining TODOs. |
+| `memory/` | User, feedback, project and reference memory. |
 
 ## Sync
 
