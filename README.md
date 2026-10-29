@@ -17,7 +17,7 @@ Private notes repo shared by Obsidian (on my computer) and Claude (on every devi
 ## Sync
 
 - Obsidian Git plugin: auto commit-and-sync and auto pull every 5 minutes, pull on startup.
-- Instant sync in Obsidian: Cmd + P → **Git: Pull** or **Git: Commit-and-sync**.
+- Instant sync in Obsidian: Ctrl + P (Windows) → **Git: Pull** or **Git: Commit-and-sync**.
 - Fallback: GitHub Desktop → Commit to main → Push origin.
 
 Never store passwords, API keys or tokens here.
