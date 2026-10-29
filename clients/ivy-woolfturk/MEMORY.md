@@ -4,7 +4,7 @@ Facts about this client that change over time. Rules go in this folder's CLAUDE.
 
 ## Active projects
 
-- [Project] — [status] — [due date]
+- Substack article emails — ongoing — one GHL campaign per new article, archived in `campaigns/`
 
 ## Decisions
 
@@ -16,4 +16,4 @@ Facts about this client that change over time. Rules go in this folder's CLAUDE.
 
 ## Notes
 
-- [Anything worth remembering]
+- Substack emails go from GHL subaccount A Liberated Life (location DKzlAL1R9brVebDdGqyH) to the "Substack" smart list. Base template: clone the latest Substack email (e.g. "I opened the garbage bags."). Archive notes: `campaigns/YYYY-MM-DD - <Article Title>.md`.
