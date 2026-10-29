@@ -27,11 +27,14 @@ This file holds rules (anything "always" or "never"). Facts that change — proj
 | --- | --- |
 | `personal/` | I'm working on my own business: brand, offers, content, digital products. |
 | `clients/<client-name>/` | I mention that client or work on anything for them. |
+| `clients/bey-layson/` | I mention Bey Layson, the GHL CRM build, or work on anything for them. |
+| `clients/hl-accelerator/` | I mention HL Accelerator or work on anything for them. |
+| `clients/onesource/` | I mention OneSource or work on anything for them. |
 | `clients/_template/` | Only when adding a new client — copy it, never edit client work here. |
 | `playbooks/` | I ask for a reusable process, checklist or SOP that applies across clients. |
 | `00_Resources/` | Writing in my own voice, or any shared reference material. |
 
-_Add a row for each new client, e.g. `clients/client-a/` → "I mention Client A or work on anything for them."_
+_Add a row for each new client._
 
 ## Adding a new client
 
