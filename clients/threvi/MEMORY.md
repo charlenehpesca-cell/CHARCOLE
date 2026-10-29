@@ -1,4 +1,4 @@
-# MEMORY.md — Bey Layson
+# MEMORY.md — THREVI
 
 Facts about this client that change over time. Rules go in this folder's CLAUDE.md.
 

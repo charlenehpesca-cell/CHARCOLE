@@ -1,11 +1,11 @@
-# CLAUDE.md — Bey Layson
+# CLAUDE.md — Ivy Woolfturk
 
 Rules for this client only. Read this and this folder's MEMORY.md before any work for them. Never use information from other clients or from personal/ here.
 
 ## Identity
 
-- **Client:** Bey Layson
-- **What this folder covers:** GHL (GoHighLevel) CRM build
+- **Client:** Ivy Woolfturk
+- **What this folder covers:** [services I provide, scope of work]
 - **Main contact:** see README.md
 
 ## Resources

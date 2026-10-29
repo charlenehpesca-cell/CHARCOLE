@@ -1,8 +1,8 @@
-# Deliverables — Bey Layson
+# Deliverables — Ivy Woolfturk
 
 | Deliverable | Status | Due | Notes |
 | --- | --- | --- | --- |
-| GHL CRM build | In progress | | |
+| | Not started / In progress / In review / Done | | |
 
 ## Completed
 

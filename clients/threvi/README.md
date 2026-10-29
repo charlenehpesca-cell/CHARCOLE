@@ -1,4 +1,4 @@
-# Bey Layson
+# THREVI
 
 ## Overview
 
@@ -19,4 +19,4 @@
 - Social: 
 - Project tool: 
 
-_Never store passwords here. Note where logins live instead (e.g. "in my password manager under Bey Layson")._
+_Never store passwords here. Note where logins live instead (e.g. "in my password manager under THREVI")._
