@@ -20,6 +20,7 @@ This file holds rules (anything "always" or "never"). Facts that change — proj
 - Never store passwords, API keys or logins in this repo. Write down where they live instead.
 - After changing any file in this repo, commit and push so every device stays in sync.
 - When I say "remember this": facts go in the relevant MEMORY.md, rules go in the relevant CLAUDE.md.
+- Client work stays in `clients/<client>/`. The PARA folders (10–50) are for my own notes and never hold client details.
 
 ## Routing Map
 
@@ -35,6 +36,15 @@ This file holds rules (anything "always" or "never"). Facts that change — proj
 | `clients/_template/` | Only when adding a new client — copy it, never edit client work here. |
 | `playbooks/` | I ask for a reusable process, checklist or SOP that applies across clients. |
 | `00_Resources/` | Writing in my own voice, or any shared reference material. |
+| `00 - Inbox/` | I say "capture", "jot down" or "add to inbox", or a note has no clear home yet. |
+| `10 - Projects/` | My own (non-client) projects with an outcome and end date. One note per project. |
+| `20 - Areas/` | Ongoing responsibilities: Dev, Business, Learning. |
+| `30 - Resources/` | Reference notes, guides and MOCs (start at `30 - Resources/Home.md`). |
+| `40 - Archive/` | Done or inactive projects, areas and resources. Move here, never delete. |
+| `50 - Zettelkasten/` | Permanent insights, one idea per note, titled as a sentence. |
+| `Daily/` | Daily journal notes, named `YYYY-MM-DD.md`, from `Templates/Daily Note.md`. |
+| `Templates/` | Note templates. Use them when creating notes of that type. |
+| `Attachments/` | Images and files. Never put notes here. |
 
 _Add a row for each new client._
 
