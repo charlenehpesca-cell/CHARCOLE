@@ -1,6 +1,6 @@
 # Feedback: Corrections Given
 
-Corrections Charlene has made, so they aren't repeated. Newest first. If a correction should become a rule, file a proposal (`.skills/feedback.md`).
+Corrections Charlene has made, so they aren't repeated. Newest first. If a correction should become a rule, file a proposal (`skills/feedback.md`).
 
 | Date | What happened | Correct behavior |
 | --- | --- | --- |

@@ -13,15 +13,15 @@
 ## Git discipline
 - Commit after every logical change; push immediately so every device stays in sync.
 - Commit messages: imperative, specific, under ~72 characters for the first line (`Add OneSource kickoff notes`). Mention the client when the change is client-specific.
-- Never commit secrets (see `.rules/safety.md`). Check `git status` before committing.
+- Never commit secrets (see `rules/safety.md`). Check `git status` before committing.
 - If a push is rejected: `git pull --rebase`, resolve, push. Never force-push.
 - Merge conflicts in a note: keep both versions, marked with headings, and tell Charlene. Don't pick a side silently.
 - Obsidian's automatic commits are titled `vault backup: <date>`. Leave them as they are.
 
 ## Memory discipline
-- Facts go in the relevant MEMORY.md or `memory/` file; rules go in CLAUDE.md or `.rules/` (rules only via proposal).
+- Facts go in the relevant MEMORY.md or `memory/` file; rules go in CLAUDE.md or `rules/` (rules only via proposal).
 - Save only what Charlene said or confirmed. Update in place; don't append duplicates.
 - Keep `MEMORY.md` under 200 lines.
 
 ## Ending
-- Run `.skills/session-end.md` when work wraps up.
+- Run `skills/session-end.md` when work wraps up.

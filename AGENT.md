@@ -1,6 +1,6 @@
 # AGENT.md — Living Constitution
 
-Loaded at the start of every session, before anything else. This file says **how the agent works** in CHARCOLE. `CLAUDE.md` says **what I prefer and where things go**. If they conflict, `.rules/safety.md` wins, then this file, then CLAUDE.md.
+Loaded at the start of every session, before anything else. This file says **how the agent works** in CHARCOLE. `CLAUDE.md` says **what I prefer and where things go**. If they conflict, `rules/safety.md` wins, then this file, then CLAUDE.md.
 
 ## What this repo is
 
@@ -11,7 +11,7 @@ CHARCOLE is Charlene's private second brain: one GitHub repo (`charlenehpesca-ce
 1. `AGENT.md` (this file)
 2. `CLAUDE.md`: preferences, rules, Routing Map
 3. `MEMORY.md`: cross-session index, then only the `memory/` files the task needs
-4. `.rules/safety.md` always; `.rules/operations.md` before changing files; `.rules/coding.md` before writing notes, scripts or config
+4. `rules/safety.md` always; `rules/operations.md` before changing files; `rules/coding.md` before writing notes, scripts or config
 5. The one folder the Routing Map points to. Nothing else.
 
 For client work, load only `clients/<client>/` plus steps 1–4. Never open another client's folder in the same task.
@@ -23,16 +23,16 @@ For client work, load only `clients/<client>/` plus steps 1–4. Never open anot
 3. **No secrets in the repo.** Passwords, API keys and tokens never get written here; note where they live instead.
 4. **Every change syncs.** Pull before editing, commit and push after.
 5. **Memory is earned.** Save facts Charlene states or confirms. Don't save guesses.
-6. **Rules change through proposals.** The agent never edits AGENT.md or `.rules/` on its own initiative; it files a proposal (see below).
+6. **Rules change through proposals.** The agent never edits AGENT.md or `rules/` on its own initiative; it files a proposal (see below).
 
 ## Skills (procedures)
 
 | Skill | Use when |
 | --- | --- |
-| `.skills/checkpoint.md` | Before switching task, client or device, or when a session is getting long |
-| `.skills/session-end.md` | Charlene says she's done, or a piece of work wraps up |
-| `.skills/feedback.md` | Charlene corrects the agent, or the agent spots a rule that would have prevented a mistake |
-| `.skills/review-proposals.md` | Charlene asks to review proposals, or more than 3 are pending |
+| `skills/checkpoint.md` | Before switching task, client or device, or when a session is getting long |
+| `skills/session-end.md` | Charlene says she's done, or a piece of work wraps up |
+| `skills/feedback.md` | Charlene corrects the agent, or the agent spots a rule that would have prevented a mistake |
+| `skills/review-proposals.md` | Charlene asks to review proposals, or more than 3 are pending |
 
 ## Governance loop
 

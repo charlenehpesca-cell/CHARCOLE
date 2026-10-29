@@ -23,8 +23,8 @@ Private notes repo shared by Obsidian (on my computer) and Claude (on every devi
 | `Daily/` | Daily journal notes. |
 | `Templates/` | Note templates (Daily, Project, Area, Resource, Zettel, Inbox Capture). |
 | `Attachments/` | Images and files. |
-| `.rules/` | Safety, conventions, operations (hidden in Obsidian). |
-| `.skills/` | Checkpoint, session end, feedback, review proposals (hidden in Obsidian). |
+| `rules/` | Safety, conventions, operations. |
+| `skills/` | Checkpoint, session end, feedback, review proposals. |
 | `governance/` | Proposals, learnings log, remaining TODOs. |
 | `memory/` | User, feedback, project and reference memory. |
 

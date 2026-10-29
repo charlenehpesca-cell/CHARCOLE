@@ -45,8 +45,8 @@ This file holds rules (anything "always" or "never"). Facts that change — proj
 | `Daily/` | Daily journal notes, named `YYYY-MM-DD.md`, from `Templates/Daily Note.md`. |
 | `Templates/` | Note templates. Use them when creating notes of that type. |
 | `Attachments/` | Images and files. Never put notes here. |
-| `.rules/` | Safety, conventions and git discipline. Safety is always loaded. |
-| `.skills/` | Procedures: checkpoint, session end, feedback, review proposals. |
+| `rules/` | Safety, conventions and git discipline. Safety is always loaded. |
+| `skills/` | Procedures: checkpoint, session end, feedback, review proposals. |
 | `governance/` | Proposals, learnings log, cross-session TODOs. |
 | `memory/` | User, feedback, project and reference memory (indexed in MEMORY.md). |
 

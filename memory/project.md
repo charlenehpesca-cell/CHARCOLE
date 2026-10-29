@@ -14,9 +14,9 @@
 - 2026-10-29: Client work stays in `clients/`; PARA folders are for Charlene's own notes only.
 - 2026-10-29: `bey-layson` renamed to `threvi`; "Bey Layson" kept as a routing trigger pending confirmation.
 - 2026-10-29: Governance layer added; root MEMORY.md is now an index.
+- 2026-10-29: Renamed `.rules/` and `.skills/` to `rules/` and `skills/` so they show in Obsidian.
 
 ## Known quirks
-- Dot-folders (`.rules/`, `.skills/`) are hidden in Obsidian's file explorer by design; they're visible on GitHub and to Claude.
 - Obsidian's vault picker window sometimes opens on top and catches keystrokes; close it before using Ctrl + P.
 
 ## TODO

@@ -10,4 +10,5 @@ Audit trail of every rule, structure or governance change: what changed, when, a
 | 2026-10-29 | Renamed `bey-layson` to `threvi` | `clients/threvi/`, CLAUDE.md, MEMORY.md | Direct request | Client name is THREVI; "Bey Layson" kept as a routing trigger |
 | 2026-10-29 | Added PARA + Zettelkasten folders, templates, Obsidian folder settings | `00 - Inbox/` … `Attachments/`, `.obsidian/` | Direct request | Charlene's vault structure |
 | 2026-10-29 | Added rule: client details never go in PARA folders | CLAUDE.md | Direct request (follows client-separation rule) | Keep clients separate |
-| 2026-10-29 | Added governance layer | AGENT.md, `.rules/`, `.skills/`, `governance/`, `memory/`; MEMORY.md became an index | Direct request | Agent governance structure |
+| 2026-10-29 | Added governance layer | AGENT.md, `rules/`, `skills/`, `governance/`, `memory/`; MEMORY.md became an index | Direct request | Agent governance structure |
+| 2026-10-29 | Renamed `.rules/` → `rules/`, `.skills/` → `skills/` | `rules/`, `skills/`, all references | Direct request | Dot-folders are hidden in Obsidian |

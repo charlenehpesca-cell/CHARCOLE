@@ -4,7 +4,7 @@ CHARCOLE is mostly Markdown for Obsidian. These conventions keep notes consisten
 
 ## Files and folders
 - Notes are `.md`. Note titles use Title Case with spaces (`Second Brain Setup.md`), matching how Obsidian shows them.
-- Client folders use lowercase-hyphen slugs (`clients/hl-accelerator/`). Never rename one without following `.rules/safety.md`.
+- Client folders use lowercase-hyphen slugs (`clients/hl-accelerator/`). Never rename one without following `rules/safety.md`.
 - Daily notes are `Daily/YYYY-MM-DD.md`.
 - Zettelkasten titles are a full-sentence idea (`Clients buy outcomes, not hours.md`).
 - Images and files go in `Attachments/` only.

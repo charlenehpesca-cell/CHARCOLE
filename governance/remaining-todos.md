@@ -9,7 +9,7 @@ Cross-session open items. Tick them off; don't delete them. Move items finished 
 - [ ] Personalize `00_Resources/voice-principles.md` with 5 of Charlene's own messages
 - [ ] Fill in `personal/MEMORY.md`: offers, active projects
 - [ ] Optional: Obsidian MCP on the PC (Local REST API plugin + `claude mcp add`, run by Charlene; API key stays out of this repo)
-- [ ] Add GHL conventions to `.rules/coding.md` once THREVI build assets exist
+- [ ] Add GHL conventions to `rules/coding.md` once THREVI build assets exist
 - [ ] Renew Git sign-in if Git Credential Manager asks again
 
 ## Done

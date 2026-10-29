@@ -13,7 +13,7 @@ Wrap up a work session so the next one starts smarter.
    - project state and decisions → `memory/project.md`
    - her preferences → `memory/user.md`
    - links, paths and IDs → `memory/reference.md`
-4. **Corrections:** if she corrected anything, log it in `memory/feedback.md`, and run `.skills/feedback.md` if a rule should change.
+4. **Corrections:** if she corrected anything, log it in `memory/feedback.md`, and run `skills/feedback.md` if a rule should change.
 5. **TODOs:** add or tick items in `governance/remaining-todos.md`.
 6. **Daily note:** add a one-line log entry to today's `Daily/YYYY-MM-DD.md` (create it from `Templates/Daily Note.md` if missing). Personal summary only; no client details beyond the client name.
 7. Clear **Latest checkpoint** in `MEMORY.md` if the task is fully done.

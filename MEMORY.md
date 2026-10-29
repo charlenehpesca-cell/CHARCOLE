@@ -1,6 +1,6 @@
 # MEMORY.md — Cross-Session Index
 
-Read this after AGENT.md and CLAUDE.md. Keep it under 200 lines: it points to detail, it doesn't hold it. Rules belong in CLAUDE.md or `.rules/`. Client facts belong in that client's own MEMORY.md.
+Read this after AGENT.md and CLAUDE.md. Keep it under 200 lines: it points to detail, it doesn't hold it. Rules belong in CLAUDE.md or `rules/`. Client facts belong in that client's own MEMORY.md.
 
 ## Memory files
 
@@ -28,7 +28,7 @@ Details live in each folder; load only the one the task needs.
 
 ## Latest checkpoint
 
-_None yet. `.skills/checkpoint.md` writes the most recent one here (one entry, overwrite each time)._
+_None yet. `skills/checkpoint.md` writes the most recent one here (one entry, overwrite each time)._
 
 ## Key contacts
 
