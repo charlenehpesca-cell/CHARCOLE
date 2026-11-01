@@ -4,7 +4,8 @@ Facts about this client that change over time. Rules go in this folder's CLAUDE.
 
 ## Active projects
 
-- [Project] — [status] — [due date]
+- [[ptooey|PTOOEY]] — OneSource client; contact Paul Woodward; schedule call + team check-in — 2026-11-03
+- [[bluciel|BLUCIEL]] ("Bleuciel Automations") — new OneSource client; review onboarding answers, draft process map — meeting 2026-11-03 3pm
 
 ## Decisions
 
@@ -12,7 +13,7 @@ Facts about this client that change over time. Rules go in this folder's CLAUDE.
 
 ## Contacts
 
-- [Name] — [role] — [how they prefer to be contacted]
+- Paul Woodward — PTOOEY contact — [how they prefer to be contacted]
 
 ## Notes
 
