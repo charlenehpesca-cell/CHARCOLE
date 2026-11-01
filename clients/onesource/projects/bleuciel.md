@@ -1,7 +1,7 @@
-# BLUCIEL (OneSource client)
+# Bleuciel (OneSource client)
 
 - **Client of:** OneSource
-- **Also seen as:** "Bleuciel Automations" (name on the OneSource meeting invite — confirm spelling)
+- **Full name:** Bleuciel Automations
 - **Status:** New — onboarding
 
 ## Next steps
@@ -16,4 +16,4 @@ _To be drafted from the onboarding answers._
 
 ## Notes
 
-- 2026-11-02: Added as a new OneSource client project.
+- 2026-11-02: Added as a new OneSource client project (spelling corrected from "BLUCIEL").
