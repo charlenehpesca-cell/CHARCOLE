@@ -5,7 +5,7 @@ Facts about this client that change over time. Rules go in this folder's CLAUDE.
 ## Active projects
 
 - [[ptooey|PTOOEY]] — OneSource client; contact Paul Woodward; schedule call + team check-in — 2026-11-03
-- [[bleuciel|Bleuciel]] (Bleuciel Automations) — new OneSource client; review onboarding answers, draft process map — meeting 2026-11-03 3pm
+- [[bleuciel|Bleuciel]] (Bleuciel Automations) — new OneSource client; GHL lead system for Ricoma (~6 wks, see [[project-overview]]); review onboarding answers, draft process map — meeting 2026-11-03 3pm
 
 ## Decisions
 
