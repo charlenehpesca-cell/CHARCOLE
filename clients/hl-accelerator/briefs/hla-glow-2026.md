@@ -109,6 +109,10 @@ Plan: ask the venue manager to let the bartender make cocktails and slushies on 
 - DP frame (Canva brand template): https://www.canva.com/brand/brand-templates/EAHYKNKidWk
 - Venue, images and Clubhouse photos (same Drive folder): https://drive.google.com/drive/folders/1APefxsbqc6d0m-bVsf6UyiTmlt0cmf1l
 
+## Program draft
+
+Charlene is drafting the program (3–9 PM confirmed): https://claude.ai/artifact/Enoos6F8QLRtuxWX6TRM58
+
 ## Open questions (doc vs website)
 
 1. **Time:** the doc says 3–9 PM; the website says 2 PM registration and 3–8 PM.
