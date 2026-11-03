@@ -38,5 +38,7 @@ _Design system: [link it here if one exists in Claude]. Always use it for this c
 
 ## Editorial rules
 
+- Copy marked "TEASER ONLY | DO NOT USE WORD BY WORD" in client docs is reference only. Rewrite it; never copy it verbatim.
+
 - Write in this client's brand voice (see `brand/`), not my personal voice.
 - [Spelling, terminology, words to avoid, approval process]

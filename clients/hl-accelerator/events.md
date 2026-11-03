@@ -4,6 +4,8 @@
 
 Source: https://www.hlaccelerator.com/hlaglow26 (captured 2026-11-03). The registration page (https://links.hlaccelerator.com/events/hlaglow26) blocks automated reading, so its details aren't captured here.
 
+**The internal event doc has more detail and some differences:** see `briefs/hla-glow-2026.md` for the full run of show (3–9 PM), the CRM Architect ceremony, the GLOW KIT contents, approved copy, the food and drinks budget, and assets.
+
 - **What:** HL Accelerator Year-End Glow Party for the HLA community ("HLA Fam")
 - **When:** Saturday, November 14, 2026. Registration opens at 2 PM; the event runs 3–8 PM (Philippine time).
 - **Where:** Clubhouse at The Palace, BGC, Taguig City. In person only.
