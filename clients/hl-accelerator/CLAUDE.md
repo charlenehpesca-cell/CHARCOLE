@@ -14,6 +14,9 @@ Rules for this client only. Read this and this folder's MEMORY.md before any wor
 | --- | --- | --- |
 | `README.md` | Overview, contacts, links | Start of any task |
 | `deliverables.md` | What's due and its status | Before planning or reporting work |
+| `offers.md` | GHL4Beginners and HLA program details, prices, claims | Any sales, funnel or offer copy |
+| `events.md` | HLA GLOW 2026 and other events | Any event promo, copy or logistics |
+| `brand/voice.md` | Tone and taglines pulled from their site | Any client-facing copy |
 | `brand/` | Brand guide, voice, logos | Any client-facing copy or design |
 | `briefs/` | Project briefs | Starting or scoping a project |
 | `design/` | Design files and design system | Any design work |
