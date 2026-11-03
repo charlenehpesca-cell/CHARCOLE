@@ -7,13 +7,13 @@
 
 ## Next steps
 
-- [ ] Review their onboarding answers
-- [ ] Draft a process map to start their setup
+- [x] Review their onboarding answers (kickoff questionnaire Batch 1)
+- [x] Draft a process map to start their setup — see [[process-map]]
 - [ ] OneSource meeting with Bleuciel Automations: Tue 2026-11-03, 3:00–4:00pm
 
 ## Process map (draft)
 
-_To be drafted from the onboarding answers._
+See [[process-map]] (draft 2026-11-03).
 
 ## Notes
 
