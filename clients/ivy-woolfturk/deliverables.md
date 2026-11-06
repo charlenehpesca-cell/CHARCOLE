@@ -2,7 +2,7 @@
 
 | Deliverable | Status | Due | Notes |
 | --- | --- | --- | --- |
-| | Not started / In progress / In review / Done | | |
+| LinkedIn reconnect message to male connections (6+ months no DMs) | In progress | — | 23 sent 2026-11-07; ~20–25/day; ~384 left. [[linkedin-reconnect-men]] |
 
 ## Completed
 
