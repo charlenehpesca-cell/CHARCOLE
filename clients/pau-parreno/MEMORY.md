@@ -30,3 +30,4 @@ Facts about this client that change over time. Rules go in this folder's CLAUDE.
 
 
 - 2026-11-07: Published (Policy) Premium Payment Reminder (was Draft). Fires 7 days before Premium due date and on the due date, Premium paying only. 5 queued enrollments now proceeding. SOP section 10 + video script Scenes 05/15/16 updated to say premium reminders are automatic.
+- 2026-11-07: Built + published "Consultation Appointment No-Show" (Sales Pipeline folder). Trigger: Appointment status = No-show on "Schedule a Consultation with Joy Pauline Parreno" calendar. Steps: email (template "appointment no-show 1", cloned from "appointment schedule confirmed", booking link = permanent calendar link) -> internal email alert to Pau, Em, Ralph -> wait 2 days -> email (template "appointment no-show 2") -> goal: appointment new/confirmed on same calendar ends workflow. Stop on response on. Live workflows now 20 (8 sales). SOP + video script updated.
