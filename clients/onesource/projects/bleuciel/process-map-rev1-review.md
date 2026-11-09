@@ -21,11 +21,15 @@ Onboarding (welcome, delivery + 3-day setup, first-week call, 30-day check-in), 
 
 ## Flags for OneSource
 
-- **Scope:** page 3 and much of page 2 (nurture, callback, pauses, reopen, cancellation, extra sources, reporting) go beyond proposal OSP-26002. Treat client care as Phase 2 or a change request.
+- **Scope:** basic client care (welcome, check-in, PM reminders, holiday/promo messages) was added on the 3 Nov call. Page 3 expands it into a multi-year program — propose that as Phase 2. Pages 1–2 go in Phase 1.
 - **Timeline:** Nov 30 completion at risk if everything is in Phase 1.
 - **Viber:** not native in GHL; needs a third-party integration or use SMS/WhatsApp instead.
 - **Other lead sources:** website forms, Google ads, QR expo forms are doable; need access/details per source.
 - **"Not yet" pause:** needs a "resume date" field + workflow wait-until-date.
 - **Agreement stage:** do they send agreements from GHL (Documents & Contracts) or outside?
-- **Payment:** down payment recorded manually or via GHL payments?
+- **Payment:** down payment via Salig Pay invoice link (from 4 Nov map) — need Salig Pay details.
 - **Service team:** who is Client Care Specialist; are they GHL users (adds seats)?
+
+## Response (2026-11-09)
+
+- Rev 2 of our map, adopting their Rev 1 + Phase 1/2 split: [Process Map Rev 2](https://claude.ai/artifact/1eNi6fwnn7UYV2cDAQctAi) (private until shared). The shared 4 Nov version is unchanged: https://claude.ai/artifact/8ovBJorLrPgsLKWYnwuvbU
