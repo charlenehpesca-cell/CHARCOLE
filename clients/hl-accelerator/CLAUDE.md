@@ -14,6 +14,7 @@ Rules for this client only. Read this and this folder's MEMORY.md before any wor
 | --- | --- | --- |
 | `README.md` | Overview, contacts, links | Start of any task |
 | `deliverables.md` | What's due and its status | Before planning or reporting work |
+| `task-management.md` | HLA Task Board, creative request forms, statuses (MEM0010) | Any task, deadline, status update or design/video request |
 | `offers.md` | GHL4Beginners and HLA program details, prices, claims | Any sales, funnel or offer copy |
 | `events.md` | HLA GLOW 2026 and other events | Any event promo, copy or logistics |
 | `brand/voice.md` | Tone and taglines pulled from their site | Any client-facing copy |
@@ -31,6 +32,13 @@ _Design system: [link it here if one exists in Claude]. Always use it for this c
 3. Update `deliverables.md` with status changes.
 4. Save new decisions, contacts and facts to this folder's MEMORY.md.
 5. Commit and push.
+
+## Task rules (MEM0010, from Nov 4, 2026)
+
+- The HLA Task Board is the source of truth. If it's not on the board, it isn't a task. See `task-management.md`.
+- New tasks go in by email to ai@cecetan.me with subject "New Task", or via Discord threads, Granola notes, dashboards or forms. Never treat a chat or DM request as tracked.
+- Design and video requests always go through the request forms. For design, "What do you need?" is the exact on-design text; for video, include duration, purpose and key details. Always pick the project code or WATERFALL.
+- When I finish or get blocked on something, remind me to update its status on the board (Stuck needs a reason). Gail reviews every Tuesday.
 
 ## Design rules
 

@@ -9,10 +9,16 @@ Facts about this client that change over time. Rules go in this folder's CLAUDE.
 ## Decisions
 
 - YYYY-MM-DD: [decision and who made it]
+- 2026-11-04: All HLA tasks move to the HLA Task Board, synced to HighLevel (MEM0010, Cece/Gail). Creative requests by form only, 7-day default turnaround. Details in task-management.md. Full memo link still to follow.
 
 ## Contacts
 
 - [Name] — [role] — [how they prefer to be contacted]
+- Cece — owner of the HLA Task Board (task email: ai@cecetan.me)
+- Gail — manages the HLA Task Board for Cece; ask her to change deadlines or owners; reviews the board every Tuesday
+- Quinze — receives design requests (graphics form)
+- Nicolle — receives video edit requests (video form)
+- nats — posted MEM0010 on Discord
 
 ## Notes
 
