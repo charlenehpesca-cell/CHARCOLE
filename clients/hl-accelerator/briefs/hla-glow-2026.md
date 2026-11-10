@@ -16,7 +16,7 @@ Source: HLA's internal event doc, saved as `HLA_GLOW_2026_event-doc.pdf` in this
 - Promo copy received: "HLA GLOW BRINGS YOU THE HIGHLEVEL AFFILIATE OF THE YEAR! The GHL WIZARD Declan O'Reilly… 2 PM – 4 PM: Exclusive Workshop with Declan / 4 PM onwards: HLA GLOW Celebration… Learn from the Affiliate of the Year. Only at HLA GLOW!"
 - **REKREATE** gives a 5-minute talk (program draft: 5:15 PM, before dinner).
 - **Sponsor thank-you** segment added (program draft: 8:05 PM, sponsors then draw the grand raffle).
-- Glow Lighting Moment removed. No dinner slot: food is passed around by waiters all night. Program draft retimed (REKREATE 5:10, CRM Architect ceremony 5:15, Family Feud 5:55, mingle break 6:20 before the 7:00 LED dancers).
+- Glow Lighting Moment removed. No dinner slot: food is passed around by waiters all night. Program draft retimed (REKREATE 5:10, CRM Architect ceremony 5:15, Family Feud 5:55, DJ party set from 6:20 with build-up at 6:50, LED dancers stay at 7:00).
 - Program draft now runs 1:30 PM registration → 2:00 workshop → 4:00 opening → 9:00 PM end. Closing moved to 8:20, last glow photo 8:35, after party 8:40–9:00.
 
 ## Run of show (original event doc)
