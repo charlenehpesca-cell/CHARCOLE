@@ -22,7 +22,7 @@
 
 | Name | Role |
 | --- | --- |
-| Jay-cee "Cece" Tan (Coach Cece) | Founder and lead coach. Diamond SaaSpreneur Awardee 2025, Gold 2024, HighLevel Certified Admin, co-founder of SaligPay |
+| Jay-cee "Cece" Tan (Coach Cece) | Founder and lead coach. First Filipino HighLevel Commander, HighLevel Certified Admin, Diamond (2025) and Gold (2024) SaaSpreneur Awardee, entrepreneur, co-founder of SaligPay, community builder helping Filipinos thrive in the digital economy |
 | CJ Salamida | Moderator, DM support |
 | Cyra Guevarra | Admin |
 | Nuno Tavares | Ran a free training |
