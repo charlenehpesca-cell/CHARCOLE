@@ -44,4 +44,5 @@ Ivy
 - **Before 2026-11-07:** an earlier batch was sent on Oct 9–14 (e.g. Glenn Edelstein and others). Those threads now count as recent, so they're skipped.
 - **2026-11-07 — 23 sent:** Jeffrey Corbett, Vincent Hazenboom, Andrew Darlow, Barry Cohen, Tom Briggs, Ubaid Ramzan, Jake Platt, Ghulam Fernandes, Anand Kashyap, Rick Poch, Marvin Diaz Jr., Keith Lulewich, Mark Goldsmith, Jim Britt, Mark Rhodes, Jared Weinryt, Michael A. Silver, Matthew Cohen, Rick Hanson, Tony Payton Jr, Rodney T, Walter Sweet, Lukas Carey.
 - **2026-11-07 (extra batch) — 10 sent:** Matt Moore, Brian Koehn, Craig Rothfeld, Ryan Moser, Joseph R Mattera, Andre Peart, Marc Jospitre, Lucas Jones, Cal Walters, Peter Harper.
-- **Total so far: 33.** Remaining: ~374. Next up: Kevin Ring, …
+- **2026-11-11 — 20 sent:** Kevin Ring, Victor D. Lombard, Michael Cooperman, Edwin Torres, Jason Miller, Brendan Burns, Jim McGreevey, Ron Gregory, Russell A. Glick, Karl D. Rabke, John Muldoon, Alfonso Saverino, Robert Newman III, Theon Freeman, Kent Vanho, Rick Amato, Jay Jackson, Adam Grant, Garrett D. Jennings, Stewart Koenigsberg. No skips. Recent-message cutoff moved to May 11, 2026.
+- **Total so far: 53.** Remaining: ~354. Next up: Ken Williams, Peter A Simmonds, Mark Badilo, Brian Johnson, Paul Grossman, …
