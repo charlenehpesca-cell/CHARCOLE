@@ -10,7 +10,15 @@ Source: HLA's internal event doc, saved as `HLA_GLOW_2026_event-doc.pdf` in this
 - **Venue:** Clubhouse at The Palace, BGC
 - **Time:** 3:00–9:00 PM (the website says 2 PM registration, 3–8 PM)
 
-## Run of show
+## Program updates (2026-11-10)
+
+- **Exclusive workshop with Declan O'Reilly** ("The GHL Wizard", HighLevel Affiliate of the Year), 2:00–4:00 PM, open to all ticket holders. Topics: how affiliate marketing works, creating value through content, building trust with an audience, turning recommendations into business opportunities. The HLA GLOW celebration starts at 4:00 PM.
+- Promo copy received: "HLA GLOW BRINGS YOU THE HIGHLEVEL AFFILIATE OF THE YEAR! The GHL WIZARD Declan O'Reilly… 2 PM – 4 PM: Exclusive Workshop with Declan / 4 PM onwards: HLA GLOW Celebration… Learn from the Affiliate of the Year. Only at HLA GLOW!"
+- **REKREATE** gives a 5-minute talk (program draft: 5:15 PM, before dinner).
+- **Sponsor thank-you** segment added (program draft: 8:05 PM, sponsors then draw the grand raffle).
+- Program draft now runs 1:30 PM registration → 2:00 workshop → 4:00 opening → 9:00 PM end. Closing moved to 8:20, last glow photo 8:35, after party 8:40–9:00.
+
+## Run of show (original event doc)
 
 | Time | Segment | Notes |
 | --- | --- | --- |
