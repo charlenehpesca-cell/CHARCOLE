@@ -17,11 +17,12 @@ Source: HLA's internal event doc, saved as `HLA_GLOW_2026_event-doc.pdf` in this
 - **REKREATE** gives a 5-minute talk during the 8:05 PM sponsor thank-you (moved from 5:10 PM). Grand raffle 8:15, closing 8:25, last glow photo 8:40, after party 8:45–9:00.
 - **Sponsor thank-you** segment added (program draft: 8:05 PM, sponsors then draw the grand raffle).
 - Glow Lighting Moment removed. No dinner slot: food is passed around by waiters all night. Program draft retimed (CRM Architect ceremony 5:15, Barangay Showdown 5:55 (Family Feud replaced by an active game, host decides; suggested Glow Relay, backup Glow Freeze Dance), DJ party set from 6:20 with build-up at 6:50, LED dancers stay at 7:00).
+- 2026-11-10: After party is now a full hour, 8:00–9:00 PM. Barangay Challenge results moved to 6:20 PM and sponsors + REKREATE talk to 6:30 PM (before the LED dancers); DJ set 6:40, LED dancers 7:00, runway 7:15, Best Dressed 7:30, grand raffle (REKREATE main prize last) 7:40, closing 7:50, last glow photo 7:58.
 - Program draft now runs 1:30 PM registration → 2:00 workshop → 4:00 opening → 9:00 PM end. Closing moved to 8:20, last glow photo 8:35, after party 8:40–9:00.
 
 ## REKREATE prizes (sponsor)
 
-REKREATE gives a 5-minute talk inside the 8:05 PM sponsor thank-you and draws the 2 website prizes. The main prize is the last draw of the grand raffle (8:15 PM).
+REKREATE gives a 5-minute talk inside the 6:30 PM sponsor thank-you and draws the 2 website prizes. The main prize is the last draw of the grand raffle (7:40 PM).
 
 - **Main prize: Rekreate Your Business**, a 90-day business makeover, ₱100,000+ value: discovery + written 90-day roadmap (₱10K), website or refresh up to 5 pages (₱30K), mini automation audit + 1 workflow (₱30K), marketing launch kit with 3 branded posts and a 30-day plan (₱15K), owner training + 3 monthly reviews (₱15K).
 - **2 prizes: Rekreate Your Website**, ₱30,000 each: mobile-friendly business page, up to 5 sections, contact/location links, basic search setup, 2 revision rounds, handover. Existing-site owners can pick a refresh or a consultation + improvement plan + maintenance training.
