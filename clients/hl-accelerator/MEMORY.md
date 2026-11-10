@@ -18,7 +18,7 @@ Facts about this client that change over time. Rules go in this folder's CLAUDE.
 - Gail — manages the HLA Task Board for Cece; ask her to change deadlines or owners; reviews the board every Tuesday
 - Quinze — receives design requests (graphics form)
 - Nicolle — receives video edit requests (video form)
-- nats — posted MEM0010 on Discord
+- Nats Mago — HLA Chief of Marketing; posted MEM0010 on Discord; leads the opening prayer at HLA GLOW 2026 (4:00 PM)
 
 ## Notes
 
