@@ -29,3 +29,4 @@ Facts about this client that change over time. Rules go in this folder's CLAUDE.
 - The links.hlaccelerator.com event registration page couldn't be read automatically. Paste its contents if its details are needed.
 - 2026-11-03: Drafting the HLA GLOW 2026 event program (3–9 PM). Draft doc: https://claude.ai/artifact/Enoos6F8QLRtuxWX6TRM58
 - 2026-11-10: GLOW program update: Declan O'Reilly (HighLevel Affiliate of the Year) gives an exclusive 2–4 PM workshop for all ticket holders; celebration from 4 PM. Added a 5-min REKREATE talk and a sponsor thank-you segment. Program draft updated; details in briefs/hla-glow-2026.md.
+- HLA barangays (community groups): Brgy. Alab, Brgy. Sinag, Brgy. Sheesh, Brgy. Nox, Brgy. Certificate.
