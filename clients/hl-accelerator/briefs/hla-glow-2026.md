@@ -14,10 +14,21 @@ Source: HLA's internal event doc, saved as `HLA_GLOW_2026_event-doc.pdf` in this
 
 - **Exclusive workshop with Declan O'Reilly** ("The GHL Wizard", HighLevel Affiliate of the Year), 2:00–4:00 PM, open to all ticket holders. Topics: how affiliate marketing works, creating value through content, building trust with an audience, turning recommendations into business opportunities. The HLA GLOW celebration starts at 4:00 PM.
 - Promo copy received: "HLA GLOW BRINGS YOU THE HIGHLEVEL AFFILIATE OF THE YEAR! The GHL WIZARD Declan O'Reilly… 2 PM – 4 PM: Exclusive Workshop with Declan / 4 PM onwards: HLA GLOW Celebration… Learn from the Affiliate of the Year. Only at HLA GLOW!"
-- **REKREATE** gives a 5-minute talk (program draft: 5:15 PM, before dinner).
+- **REKREATE** gives a 5-minute talk during the 8:05 PM sponsor thank-you (moved from 5:10 PM). Grand raffle 8:15, closing 8:25, last glow photo 8:40, after party 8:45–9:00.
 - **Sponsor thank-you** segment added (program draft: 8:05 PM, sponsors then draw the grand raffle).
-- Glow Lighting Moment removed. No dinner slot: food is passed around by waiters all night. Program draft retimed (REKREATE 5:10, CRM Architect ceremony 5:15, Barangay Showdown 5:55 (Family Feud replaced by an active game, host decides; suggested Glow Relay, backup Glow Freeze Dance), DJ party set from 6:20 with build-up at 6:50, LED dancers stay at 7:00).
+- Glow Lighting Moment removed. No dinner slot: food is passed around by waiters all night. Program draft retimed (CRM Architect ceremony 5:15, Barangay Showdown 5:55 (Family Feud replaced by an active game, host decides; suggested Glow Relay, backup Glow Freeze Dance), DJ party set from 6:20 with build-up at 6:50, LED dancers stay at 7:00).
 - Program draft now runs 1:30 PM registration → 2:00 workshop → 4:00 opening → 9:00 PM end. Closing moved to 8:20, last glow photo 8:35, after party 8:40–9:00.
+
+## REKREATE prizes (sponsor)
+
+REKREATE gives a 5-minute talk inside the 8:05 PM sponsor thank-you and draws the 2 website prizes. The main prize is the last draw of the grand raffle (8:15 PM).
+
+- **Main prize: Rekreate Your Business**, a 90-day business makeover, ₱100,000+ value: discovery + written 90-day roadmap (₱10K), website or refresh up to 5 pages (₱30K), mini automation audit + 1 workflow (₱30K), marketing launch kit with 3 branded posts and a 30-day plan (₱15K), owner training + 3 monthly reviews (₱15K).
+- **2 prizes: Rekreate Your Website**, ₱30,000 each: mobile-friendly business page, up to 5 sections, contact/location links, basic search setup, 2 revision rounds, handover. Existing-site owners can pick a refresh or a consultation + improvement plan + maintenance training.
+- All 3 winners: 90-minute owner training, reference guide, access to site files and accounts.
+- Sites on REKREATE hosting: 12 months hosting + up to ₱1,500 first-year domain. 30 days post-launch defect support. Scope and dates agreed with each winner before work starts.
+- One-time transfer to a nominated family member or friend allowed, with REKREATE's confirmation before kickoff, same scope.
+- To confirm: who can join the REKREATE draws.
 
 ## Run of show (original event doc)
 
