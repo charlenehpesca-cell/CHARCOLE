@@ -10,7 +10,7 @@
 - OS-C-26002 signed by Ken Ty 2026-10-18 — ![[OneSource_Bleuciel_Contract_OS-C-26002_signed.pdf]]
 - Fixed fee ₱150,000 (50/20/15/15 milestones); optional managed services ₱20,000/mo; start Oct 19, completion Nov 30
 - Out-of-scope list for management approval (2026-11-09): [Setups Outside the Signed Contract](https://claude.ai/artifact/TXTJoBETqfeLHLWkBV4Ng5) — 23 items
-- 2026-11-11: Charlene approved all 23 new setups (Phase 1: 1–18, Phase 2: 19–23). Process map Rev 3 reflects approved scope: https://claude.ai/artifact/1eNi6fwnn7UYV2cDAQctAi
+- 2026-11-11: Charlene approved all 23 new setups (Phase 1: 1–18, Phase 2: 19–23). Process map Rev 2 (renamed from Rev 3 for Bleuciel, 2026-11-11) reflects approved scope: https://claude.ai/artifact/1eNi6fwnn7UYV2cDAQctAi
 
 ## Next steps
 
