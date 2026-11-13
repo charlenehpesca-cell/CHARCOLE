@@ -24,6 +24,8 @@ Source: HLA's internal event doc, saved as `HLA_GLOW_2026_event-doc.pdf` in this
 - 2026-11-10: After party is now a full hour, 8:00–9:00 PM. Barangay Challenge results moved to 6:20 PM and sponsors + REKREATE talk to 6:30 PM (before the LED dancers); DJ set 6:40, LED dancers 7:00, runway 7:15, Best Dressed 7:30, grand raffle (REKREATE main prize last) 7:40, closing 7:50, last glow photo 7:58.
 - Program draft now runs 1:30 PM registration → 2:00 workshop → 4:00 opening → 9:00 PM end. Closing moved to 8:20, last glow photo 8:35, after party 8:40–9:00.
 
+- 2026-11-14: New run of show, host script rewritten to match. Team 11 AM, sponsors 12 NN, workshop registration 1:30 (Lorraine & Rachel), prayer + intro 2:00 (Nats hosts, Cha & Karen assist), Declan 2:05, suppliers 3:00, party registration 3:15 (giveaways ready), group photo + room flip 3:30, LED dancers 4:10, opening + house rules 4:20, Cece welcome 4:30, Cece awards 4:35 (CRM Architects: Gracie & Gail; Top Affiliate Q3: Roanne Torres; Raffle MacBook: Crescella Surio; Barangay Challenge: Quinze & Cyra), Pass the Glow networking game 4:50, raffle part 1 5:30, LED dancers set 2 6:00, sponsors + REKREATE 6:10 (Nicole), Fashion Show 6:20 and Best Dressed 6:30 (Quinze & team), grand raffle 6:45 (Gracie & Gail), highlights + closing 7:00 (Hacel & Quinze), closing remarks + toast + group photo 7:10, DJ party 7:10–9:00. Cut: Bring Me ice breaker, early bird and merch raffles, Barangay Showdown, separate community recognition.
+
 ## REKREATE prizes (sponsor)
 
 REKREATE gives a 5-minute talk inside the 6:30 PM sponsor thank-you and draws the 2 website prizes. The main prize is the last draw of the grand raffle (7:40 PM).
